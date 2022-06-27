@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Link Development Company**
 
-- 🌱 I’m currently learning **TypeScript and .NET Core**
+- 🌱 I’m currently learning **TypeScript , .NET Core and Go Languages**
 
 - 📫 How to reach me **akram.boktor2013@gmail.com**
 
