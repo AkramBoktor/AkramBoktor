@@ -9,7 +9,6 @@
 <h1 align="center">Hi 👋, I'm Akram Boktor</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akramboktor&label=Profile%20views&color=0e75b6&style=flat" alt="akramboktor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramboktor" alt="akramboktor" /></a> </p>
 
