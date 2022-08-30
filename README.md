@@ -11,7 +11,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramboktor" alt="akramboktor" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=akramboktor" alt="akramboktor" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
