@@ -7,8 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akrambrahim)
 
 
-<h1 align="center">Hi 👋, I'm Akram Boktor</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Akram Boktor</h1> <h3 align="center">Full Stack Developer</h3>
 
 
 
