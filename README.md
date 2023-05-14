@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **TypeScript , .NET Core and Go Languages**
 
-- 📫 How to reach me **akram.boktor2013@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/akrambrahim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
