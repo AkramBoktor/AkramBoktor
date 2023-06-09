@@ -13,12 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Motorola Solutions**
-
-- 🌱 I’m currently learning **TypeScript , .NET Core and Go Languages**
-
-- 📫 How to reach me **www.linkedin.com/in/akrambrahim**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akrambrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akrambrahim" height="30" width="40" /></a>
